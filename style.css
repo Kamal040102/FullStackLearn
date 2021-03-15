@@ -5,3 +5,27 @@
     margin: 5px;
     border: 3px solid black;
 }
+
+#stylingtext{
+    color: red;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid greenyellow;
+}
+
+p{
+    text-decoration: underline 2px black;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+* {
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+
